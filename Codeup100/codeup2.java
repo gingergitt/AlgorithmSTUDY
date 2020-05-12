@@ -1,6 +1,6 @@
-package Main;
+package CodeUp;
 
-public class coderup2 {
+public class codeup2 {
 
 	public static void main(String[] args) {
 		
